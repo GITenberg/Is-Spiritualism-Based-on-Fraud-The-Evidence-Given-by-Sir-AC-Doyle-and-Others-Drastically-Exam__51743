@@ -1,0 +1,32 @@
+_repo: Is-Spiritualism-Based-on-Fraud-The-Evidence-Given-by-Sir-AC-Doyle-and-Others-Drastically-Exam__51743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McCabe, Joseph
+    aliases:
+    - Antony, Father
+    - Macabe, Joseph
+    - McCabe, Antony
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '521'
+    url: http://www.gutenberg.org/2009/agents/521
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
+description: ''
+gutenberg_issued: '2016-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Doyle, Arthur Conan, 1859-1930'
+- !lcc 'BF'
+- !lcsh 'Spiritualism'
+- !lcsh 'Mediums -- Practice'
+- GITenberg
+title: "Is Spiritualism Based on Fraud?\r\nThe Evidence Given by Sir A.C. Doyle and\
+  \ Others Drastically Examined"
+url: http://www.gutenberg.org/ebooks/51743
